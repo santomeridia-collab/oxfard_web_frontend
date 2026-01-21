@@ -206,7 +206,7 @@ export default function Header() {
 
         {/* MOBILE MENU */}
         {mobileMenuOpen && (
-          <div className="lg:hidden bg-white border-t">
+          <div className="lg:hidden bg-white border-t text-black">
             <div className="px-4 py-4 space-y-1">
               {navLinks.map((link) => (
                 <a
