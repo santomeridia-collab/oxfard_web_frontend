@@ -56,7 +56,7 @@ export default function Header() {
     { label: "Home", href: "/home" },
     { label: "About", href: "/about" },
     { label: "Faculty", href: "/faculty" },
-    { label: "Verification", href: "/verification" },
+    // { label: "Verification", href: "/verification" },
     { label: "Gallery", href: "/gallery" },
     { label: "News", href: "/blog" },
     { label: "Contact", href: "/contact" },
